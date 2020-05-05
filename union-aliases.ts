@@ -1,4 +1,7 @@
-function combine(input1:number | String, input2:number | String) {
+type Combinable = number | string;
+type ConversionDescription = 'as-number' | 'as-text';
+
+function combine(input1:Combinable, input2:number | String) {
     let res;
     if (typeof input1 === 'number' && typeof input2 === 'number'){
         res = input1 + input2;
