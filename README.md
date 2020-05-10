@@ -5,3 +5,5 @@
 
 ### Getting started with the typescript
 
+Its a Typescript learning Github Repository.. new Concept and project with typescript and react js and javascript many other libraries.
+
