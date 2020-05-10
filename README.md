@@ -9,6 +9,6 @@ Its a Typescript learning Github Repository..  Learn new Concepts and projects w
 
 #### What to expect ??
 -[x] Fundamentals of Typescript.
--[x] 
+
 
 
