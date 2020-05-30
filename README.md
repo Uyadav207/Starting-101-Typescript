@@ -8,7 +8,7 @@
 Its a Typescript learning Github Repository..  Learn new Concepts and projects with typescript and react js and as well as javascript many other libraries.
 
 #### What to expect ??
--[x] Fundamentals of Typescript.
+- [x] Fundamentals of Typescript.
 
 
 
